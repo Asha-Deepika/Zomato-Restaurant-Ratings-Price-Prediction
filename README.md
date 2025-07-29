@@ -25,4 +25,5 @@ Random Forest Regressor  | 0.894    | 122.33  | 92.14
 XGBoost Regressor        | 0.901    | 118.21  | 88.30
 
 
+![RMSE Comparison](https://github.com/Asha-Deepika/Zomato-Restaurant-Ratings-Price-Prediction/blob/main/RMSE%20Comparision.png)
 
