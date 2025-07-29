@@ -29,6 +29,8 @@ XGBoost Regressor        | 0.901    | 118.21  | 88.30
 
 ![RMSE Comparison](https://github.com/Asha-Deepika/Zomato-Restaurant-Ratings-Price-Prediction/blob/main/R%5E2%20Score%20Comparision.png)
 
+![RMSE Comparison](https://github.com/Asha-Deepika/Zomato-Restaurant-Ratings-Price-Prediction/blob/main/MAE%20Comparision.png)
+
 
 
 
